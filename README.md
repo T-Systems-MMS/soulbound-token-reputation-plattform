@@ -18,3 +18,7 @@
 5. node main.js -  Go to the Backend and run main.js to generate an example Network of Users
 
 # If you're on goerli branch all you need is npm run dev
+
+On this branch the contract has already been published to test network, all you need to do is to start the application to interact with it.
+
+However, if you want to make changes to the contract or easily manipulate tokens, accounts etc. for testing, then working on main is adviced.
